@@ -1,0 +1,27 @@
+.main_container {
+    display: flex;
+    background-color:#F2F2F2;
+    }
+.container_ml{
+margin-left: 204px;
+}
+
+.container_image {
+    height: 350px;
+    margin-top: 75px;
+    margin-right: 142px;
+}
+
+.container_text {
+    margin-top: 152px;
+}
+
+.align_top_right {
+    margin-right: 172px;
+}
+
+.align_btm_right {
+    margin-left: 106px;
+    margin-bottom: 75px;
+    margin-right: 206px;
+}
